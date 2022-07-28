@@ -1,0 +1,17 @@
+body {
+  background-color: gray;
+  text-align: center;
+}
+
+h1 {
+  font-size: 10rem;
+  text-align: center;
+}
+
+button {
+  height: 100px;
+  width: 100px;
+  background-color: hotpink;
+  border-color: hotpink;
+  /* margin-left: 34%; */
+}
